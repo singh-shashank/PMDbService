@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMDbService", "PMDbService\PMDbService.csproj", "{C239A3FF-695E-4A75-A7F3-E08BEB8DEECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PmDbServiceHost", "PmDbServiceHost\PmDbServiceHost.csproj", "{58DEB64F-95F2-4920-B6F8-1B962432542D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMDbDataAccess", "PMDbDataAccess\PMDbDataAccess.csproj", "{40C84697-BA75-47FA-9269-CB17BEDA0164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C239A3FF-695E-4A75-A7F3-E08BEB8DEECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C239A3FF-695E-4A75-A7F3-E08BEB8DEECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C239A3FF-695E-4A75-A7F3-E08BEB8DEECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C239A3FF-695E-4A75-A7F3-E08BEB8DEECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DEB64F-95F2-4920-B6F8-1B962432542D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DEB64F-95F2-4920-B6F8-1B962432542D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DEB64F-95F2-4920-B6F8-1B962432542D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DEB64F-95F2-4920-B6F8-1B962432542D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C84697-BA75-47FA-9269-CB17BEDA0164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C84697-BA75-47FA-9269-CB17BEDA0164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C84697-BA75-47FA-9269-CB17BEDA0164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C84697-BA75-47FA-9269-CB17BEDA0164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
